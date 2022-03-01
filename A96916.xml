@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord in season: or motives to peace, accomodation, and unity, 'twixt Presbyterian and Independent brethren Drawn from necessity of duty, necessity of expediency, and from the possibility of atchieving.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96916</idno>
+            <idno type="STC">Wing W3547D</idno>
+            <idno type="STC">Thomason E314_18</idno>
+            <idno type="STC">ESTC R200502</idno>
+            <idno type="EEBO-CITATION">99895800</idno>
+            <idno type="PROQUEST">99895800</idno>
+            <idno type="VID">153772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord in season: or motives to peace, accomodation, and unity, 'twixt Presbyterian and Independent brethren Drawn from necessity of duty, necessity of expediency, and from the possibility of atchieving.</title>
+                  <author>Walwyn, William, 1600-1681, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Macock, for Giles Calvert, dwelling at the black Spred-Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Not William Walwyn's "Word in season" (Wing W695A, W695B), with which this title is sometimes confused.</note>
+                  <note>Annotation on Thomason copy: "Jan: 5 1645".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:153772:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 115 -->
+            <head>A Word in Seaſon: OR Motives to <hi>Peace, Accommodation,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> 'twixt PRESBYTERIAN AND INDEPENDENT <hi>Brethren.</hi>
+            </head>
+            <head type="sub">Drawn from neceſſity of Duty, neceſſity of Expe<g ref="char:EOLhyphen"/>diency, and from the Poſſibility of Atchieving.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">C</seg>Hriſtian Reader</salute>
+            </opener>
+            <p>whoever thou art that doſt caſt an eye on theſe enſuing Motives, thou art deſired yea and required (how deſpicable ſo ever the pen-man ſeem unto thee) in the <hi>Name</hi> of that <hi>Son</hi> of peace: and by all thy <hi>intereſt</hi> in that <hi>ſpirit</hi> of <hi>peace, love,</hi> and <hi>union,</hi> not to <hi>ſlight</hi> the Motion, nor yet onely in a curfory way, to paſſe thy favourable verdit on it as good, and ſo to lay it by. But <hi>ſeriouſly</hi> ponder in thine <hi>heart</hi> the ſeaſonableneſſe of the mo<g ref="char:EOLhyphen"/>tion, And <hi>neceſſity</hi> of ſpeedy action, towards the within mentioned
+<pb n="2" facs="tcp:153772:2"/>
+               <!-- PDF PAGE 116 -->
+               <hi>peace</hi> and <hi>accommodation;</hi> Before <hi>that</hi> which is <hi>now</hi> our notorious <hi>ſin</hi> [<hi>diviſion</hi>] be by the <hi>hand of Iuſtice,</hi> turned into a moſt eminent <hi>plague</hi> unto us. Before the fire which we have kindled break forth into a vehement flame, not to be quenched but wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h the blood of the kindlers: <hi>We know how great a matter a little fire kindleth.</hi> And as by all the enſuing Motives, ſo by this alſo <hi>(knoweſt thou not that it will be bitterneſſe in the end:)</hi> Thou art intreated to lay by all prejudice againſt this duty, ſo much and ſo many wayes preſt upon us; and induſtriouſly act towards it <hi>with all thy might.</hi>
+            </p>
+            <p>And if upon peruſall of this paper, thou ſay, You tell us <hi>that</hi> we all know already, and perſwade us unto <hi>that</hi> we are before willing unto: but tell us ſomething of the way to accompliſh.</p>
+            <p>
+               <hi>Its anſwered</hi> the <hi>Author</hi> is ſufficiently perſwaded, that the wayes are <hi>many</hi> and eaſie enough to finde, and that its rather want of <hi>will</hi> then <hi>skill</hi> that the work is not done already, and that the difference is not ſo much in <hi>principles</hi> as in <hi>spirits.</hi> And that if the miniſtry of each were but by the people ingaged to <hi>confer and conſult</hi> together, and each for accomodation ſake to give way, as much as with ſafety and good conſciences they may, the work would not be long a doing.</p>
+            <p>And further. That way is moſt like to win upon the people thats found out and agreed on by the <hi>Miniſters</hi> of either party, of their own deſigning to the work; alſo Miniſters are like beſt to approve and moſt cordially to ingage for it, in perſwading with the people.</p>
+            <p>Secondly to agree upon the <hi>way</hi> is the worke of both parties together, and not of one alone; each can beſt tell what will give them ſatisfaction.</p>
+            <p>Thirdly if a <hi>way</hi> ſhould be <hi>propounded</hi> and ſet down in writing it either muſt be very largely ſet down with all its <hi>circumſtances</hi> and objections <hi>anſwered;</hi> or elſe the <hi>propounder</hi> muſt be at the elbow of each Reader to anſwer objections, or in ſtead of helping he might peradventure hinder the work.</p>
+            <p>Fourthly, The preſcribing a <hi>way</hi> though <hi>excellent,</hi> could not accom<g ref="char:EOLhyphen"/>pliſh without the former.</p>
+            <p>Fifthly, nor would it <hi>likely</hi> availe <hi>much</hi> though never ſo per<g ref="char:EOLhyphen"/>fect, ſeeing ſeverall perſons have ſeverall <hi>apprehenſions,</hi> and the
+<pb n="3" facs="tcp:153772:2"/>
+               <!-- PDF PAGE 116 -->ſame thing ſeemes better to another in <hi>another forme:</hi> Nor is it for the honour of the publique to take up the conceptions of a pri<g ref="char:EOLhyphen"/>vate ſpirit, another being as Good, and if the reſult of more pub<g ref="char:EOLhyphen"/>like Labours be Better as being more ingaging.</p>
+            <p>For theſe and the like Reaſons he hath put thee upon the ingage<g ref="char:EOLhyphen"/>ing the Miniſtery to this ſo <hi>deſireable</hi> ſo <hi>bleſſed</hi> a worke.</p>
+            <div type="part">
+               <head>Motives to Peace, Accommodation, and Unity 'twixt PRESBYTERIAN and INDEPENDENT Brethren; &amp;c.</head>
+               <p>FIrſt, That we may be <hi>like</hi> our <hi>Father,</hi> who is <hi>One</hi> and <hi>undivi<g ref="char:EOLhyphen"/>ded,</hi> we alſo muſt <hi>Be</hi> and <hi>Appear</hi> ſo.</p>
+               <p>
+                  <hi>He</hi> ſeekes <hi>Reconciliation</hi> with <hi>
+                     <g ref="char:V">Ʋ</g>s,</hi> when <hi>ſeparated</hi> fro<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>him,</hi> and muſt not we ſeek <hi>Reconciliation</hi> with <hi>Brethren?</hi>
+               </p>
+               <p>
+                  <hi>He loves</hi> the <hi>Vnited,</hi> and will <hi>dwell among, and bleſſe them,</hi> Pſal. 133. 1 Cor. 13.11. <hi>He hates diſcord,</hi> and the advancers of it, <hi>Pro.</hi> 6.16.19.</p>
+               <p>Secondly, That we <hi>diſhonour not Jeſus Chriſt</hi> our Maſter before the world; and occaſion not <hi>them</hi> to ſay, That either Chriſt is not <hi>in us,</hi> and we <hi>not</hi> Chriſtians, as we profeſſe to <hi>be;</hi> or <hi>elſe</hi> Jeſus Chriſt is not the <hi>Son of God;</hi> whom the <hi>world</hi> knows to be a God of <hi>peace</hi> and <hi>union,</hi> and knows there is no diviſion in him, John 17.21.23. And ſo,</p>
+               <p>Thirdly, That we make not <hi>fruſtrate</hi> the <hi>laſt</hi> and <hi>earneſt prayer</hi> of Jeſus Chriſt to his Father <hi>for us,</hi> Joh. 17.21, 23. That we may be <hi>one in Spirit, in word, and in working,</hi> as the Father and the Son is one; and hold forth that union to <hi>all the world,</hi> that the world may <hi>know,</hi> that Jeſus Chriſt whom we profeſſe <hi>is of the Father,</hi> and that the <hi>father hath ſent him.</hi>
+               </p>
+               <p>Fourthly, That we mak not fruſtrate the glorious <hi>deſigne</hi> of Jeſus Chriſt, who dyed, As that he might reconcile Man to God, ſo alſo to reconcile <hi>man</hi> to <hi>man;</hi> That he might make in himſelfe of <hi>twain</hi>
+                  <pb n="4" facs="tcp:153772:3"/>
+                  <!-- PDF PAGE 117 -->One, and ſo making Peace, <hi>Epheſ.</hi> 2.15, 16, &amp;c. <hi>Iſa.</hi> 11. <hi>chap.</hi>
+               </p>
+               <p>Fifthly, That we make not the <hi>Command</hi> of Jeſus Chriſt <hi>of none effect unto us,</hi> viz. <hi>As I have loved you, That ye love one another,</hi> Joh. 13. <hi>Have peace one with another,</hi> Mark 9.50. <hi>Let us follow after the things that make for peace, and whereby we may Edifie one another,</hi> Rom. 14.19. <hi>Seek peace and follow after it,</hi> Pſal. 34. <hi>Be of one mind and live in peace,</hi> 1 Cor. 13.11.</p>
+               <p>Sixthly, Nor the <hi>earneſt requeſt</hi> or <hi>beſeeching</hi> of Jeſus Chriſt by his Apoſtle; <hi>That we all ſpeak one thing, and that there be no divi<g ref="char:EOLhyphen"/>ſions among us,</hi> 1 Cor. 1.10.</p>
+               <p>Seventhly, That we <hi>diſhonour</hi> not <hi>Religion,</hi> and the <hi>Gospell</hi> of Chriſt, ſeeing it <hi>becomes the Goſpell</hi> that the profeſſors of it <hi>ſtand fast in One Spirit, and One Mind, ſtriving together for the ſaith of the Gospell,</hi> Phil. 1.27. and the contrary thereof, ſo much occaſions ſcandall to thoſe without, and ſtaggering to weak brethren, and makes both ſubject to queſtion, whether Religion be Divine or Humane.</p>
+               <p>Eighthly, That we <hi>call</hi> not our <hi>Chriſtianity into queſtion,</hi> amongſt fellow Chriſtians, and evidence not to <hi>them</hi> that we are <hi>Carnall</hi> walking <hi>in envyings, ſtrife, and diviſions,</hi> 1 <hi>Cor.</hi> 3.3. But that we may give Teſtimony, that we are their fellow Diſciples <hi>of Christ,</hi> as <hi>Iohn</hi> 13.35. and <hi>beloved of God,</hi> as <hi>Iohn</hi> 17.23. at end.</p>
+               <p>Ninthly, For <hi>that</hi> either we grant <hi>one another</hi> to be <hi>brethren, fel<g ref="char:EOLhyphen"/>low Members, and to have all drunk into one Spirit:</hi> and then how do we <hi>diſhonour</hi> and grieve that <hi>ſpirit</hi> of Peace, Love, and Union, by our <hi>contrariety</hi> thereunto? or elſe <hi>one</hi> denies the <hi>other</hi> party to be ſuch; and <hi>then</hi> how <hi>great,</hi> how <hi>ſad,</hi> how <hi>ſinfull,</hi> is that <hi>Diviſion?</hi>
+               </p>
+               <p>In regard of <hi>God,</hi> his <hi>Son,</hi> his <hi>holy Spirit,</hi> our <hi>Selves,</hi> our <hi>brethren</hi> for <hi>that</hi> we <hi>are</hi> Brethren, and the <hi>Cananite</hi> and the <hi>Peroſites</hi> are in the <hi>Land,</hi> viz. The eyes of <hi>Papiſts</hi> and carnall <hi>Proteſtants</hi> are upon us.</p>
+               <p>Motives from the <hi>expediency:</hi> Its <hi>expedient</hi> and therefore <hi>neceſ<g ref="char:EOLhyphen"/>ſary, neither</hi> having ground to <hi>beleeve</hi> that the State will ſo eſta<g ref="char:EOLhyphen"/>bliſh the <hi>One,</hi> as not to ſuffer the other, what <hi>inconveniency</hi> will <hi>enſue</hi> without Accommodations.</p>
+               <p>Between <hi>both,</hi> neither will be <hi>able</hi> to keep their Members in
+<pb n="5" facs="tcp:153772:3"/>
+                  <!-- PDF PAGE 117 -->
+                  <hi>good Order,</hi> but all diſcontented ſpirits will ſlight and caſt off the <hi>yoake,</hi> and be gone.</p>
+               <p>Nor will that <hi>love</hi> and <hi>ſweetneſſe</hi> be maintained 'twixt husbands, wives, parents, children, brethren, all relations.</p>
+               <p>Nor <hi>will</hi> that <hi>neglect</hi> of the <hi>Study</hi> of things more <hi>excellent</hi> &amp; <hi>more</hi> tending to <hi>piety, Iuſtice</hi> and <hi>Charity</hi> to maintain our <hi>pre-ingage<g ref="char:EOLhyphen"/>ments</hi> to <hi>this</hi> or <hi>that</hi> Diſcipline, <hi>be</hi> prevented.</p>
+               <p>
+                  <hi>Nor</hi> that making of <hi>ſides</hi> or <hi>parties,</hi> ſo <hi>prejudiciall</hi> to <hi>States, Chur<g ref="char:EOLhyphen"/>ches,</hi> and <hi>all</hi> Chriſtians, be prevented.</p>
+               <p>
+                  <hi>Nor</hi> the wicked <hi>hopes</hi> of our <hi>Enemies</hi> ſo throughly <hi>diſappointed.</hi>
+               </p>
+               <p>Nor ſhall we without <hi>accommodation</hi> &amp; <hi>communion,</hi> know <hi>ſo wel,</hi> thoſe that notoriouſly diſſent in <hi>doctrine</hi> and not in Diſcipline <hi>onely</hi> nor can we prevent the flowing in of errours without controule.</p>
+               <p>Nor <hi>can</hi> it be <hi>prevented</hi> but any party of headſtrong perſons will make a Church or <hi>confederacy</hi> at their pleaſure, and ſlight and ſet at nought all the <hi>Churches.</hi>
+               </p>
+               <p>
+                  <hi>Nor</hi> will (as we may juſtly fear) envy, clamors, and ſlan<g ref="char:EOLhyphen"/>ders, by the brethren of <hi>each party</hi> be layd aſide.</p>
+               <p>Nor will Royaliſts and Epiſcopall Spirits, be ſo well brought <hi>in,</hi> but will ſet up Aſſemblies of their own Factions, which by Rules of Accommodation may be prevented, and they won to love <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> and the <hi>Brethren.</hi>
+               </p>
+               <p>Its our duty &amp; therefore neceſſary, its neceſſary and therefore our duty: and the <hi>neceſſity</hi> thereof dayly more and more appears to every diſcerning eye, that ſees into the ſpirits and jealouſies of each party, and conſiders the miſchiefes that may inſue: <hi>If ye bite and devour one another take heed, &amp;c.</hi> Gal. 5.15.</p>
+               <p>Its poſſible to be atchieved: for,</p>
+               <p>Firſt, our Father hath promiſed to give <hi>one heart and one way,</hi> Jer. 32.39. <hi>He that made the ſtick of</hi> Judah, <hi>&amp; the ſtick of</hi> Ephraim <hi>one.</hi> Jer. 37.16, 17. <hi>Can,</hi> yea <hi>will</hi> unite all his people, and <hi>will turn to them a pure language; and they ſhall ſerve him with one conſent,</hi> Zeph. 3 9. <hi>And his name ſhall be one,</hi> Zac. 14.9.</p>
+               <p>Secondly, Our Lord Chriſt hath <hi>prayed</hi> that it <hi>ſhould be ſo,</hi> Joh. 17.21.23. and made it one of his <hi>laſt</hi> and <hi>great</hi> requeſts unto his <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and left it as a Legacy to Us, <hi>Iohn</hi> 14.37. and 16.23. and 20.19. It therefore <hi>muſt</hi> and will be ſo.</p>
+               <p>
+                  <pb n="6" facs="tcp:153772:4"/>
+                  <!-- PDF PAGE 118 -->
+Thirdly, Becauſe the <hi>Spirit</hi> by which we are all <hi>ſanctified</hi> is <hi>one</hi> and the <hi>ſame,</hi> and therefore will be alwayes acting us towards it, and will at <hi>laſt</hi> effect it, 1 <hi>Cor.</hi> 12.13. <hi>Made to drink into one Spi<g ref="char:EOLhyphen"/>rit and baptiſed into one body, and having entrance by one Spirit unto the Father,</hi> Eph. 2.18.</p>
+               <p>Its poſſible, for Our Lord Chriſt is prevalent and cannot fail of obtaining with the Father, and he is able to deliver to us what he hath bequethed, and <hi>God</hi> is faithfull who hath <hi>promiſed;</hi> and righte<g ref="char:EOLhyphen"/>ous to give Jeſus Chriſt what he hath purchaſed.</p>
+               <p>And that ſweet and powerfull ſpirit is able and very willing to carry one that glorious <hi>deſigne</hi> of the Father and the Son, wherein himſelf alſo is alike ingaged in the hearts of his.</p>
+               <p>Its poſſible, for as great things and very much greater are done among us by the <hi>Spirit</hi> of the Lord.</p>
+               <p>How great things even to the heigth of admiration hath been (before our eyes) done; By that wonderworking Spirit of provi<g ref="char:EOLhyphen"/>dence; and how ſhall we not expect as great things to be done by the <hi>Spirit of the Lord Ieſus.</hi>
+               </p>
+               <p>And is not (by exceeding much) the maine part of the work by that Spirit already done, in the hearts of Gods people of both par<g ref="char:EOLhyphen"/>ties and why ſhould we doubt the leſſe, are we not come neerer and neerer together, both in principles and practiſe, and why ſhould we doubt the iſſue.</p>
+               <p>So that all the let is in our ſelves, our ſtraightneſſe is in our own Bowels: we muſt be inſtrumentall to our God in this, as in all other great things <hi>he</hi> hath done among us. At the leaſt we muſt ſuffer the influence of that all working Spirit of <hi>love, peace,</hi> and <hi>union,</hi> up<g ref="char:EOLhyphen"/>on our hearts and ſpirits, and not reſiſt by a contrary ſpirit, as we too too much (Oh that it might not be truly ſaid for the moſt part) doe.</p>
+               <p>If there be therefore any deſire to be like our Father, if any love to his preſence and bleſſing (and is there the like power and evi<g ref="char:EOLhyphen"/>dence of eſpeciall preſence in Ordinances (except by a moderate party) as was wont to bee) if any love to the honour of Chriſt, and to receive the bleſſed Returne of the prayer of Chriſt, or to carry on the glorious <hi>deſigne</hi> of Chriſt, or to obey his commands, or to cre<g ref="char:EOLhyphen"/>dit
+<pb n="7" facs="tcp:153772:4"/>
+                  <!-- PDF PAGE 118 -->his <hi>Goſpell,</hi> or our ſelves his members, or to accommodate his <hi>Saints,</hi> and diſappoint the hopes of his enemies.</p>
+               <p>
+                  <hi>If there be any conſolation in Chriſt, if any Comfort in love, if any fellowſhip of the Spirit, if any bowels &amp; mercies; fulfill ye my joy, That ye be like minded, having the ſame love, being of one accord, of one mind. In lowlineſſe of mind, let each esteeme other better then them<g ref="char:EOLhyphen"/>ſeves.</hi>
+               </p>
+               <p>
+                  <hi>Look not every man on his own things, but every man alſo on the things of others. Let the ſame mind be in you, that was alſo in Chriſt Ieſus,</hi> Phil. 2.1, 2, 3, 4, 5.</p>
+               <p>Now the God of patience and conſolation grant you to be like minded one towards another, according to Chriſt Jeſus.</p>
+               <p>That ye may with one mind and on mouth glorifie God even the Father of our Lord Jeſus Chriſt, <hi>Rom.</hi> 15.5, 6.</p>
+               <p>Now whereas ſome will ſay, all this is good, it ought to be in<g ref="char:EOLhyphen"/>deed; but what is it to me or to our partee? our conſents and deſires are towards it, but the other partee diſſents and ſtands at a diſtance, upon ſuch termes that we cannot, we may not cloſe.</p>
+               <p>And others will ſay all this is <hi>good</hi> and <hi>deſireable,</hi> but the skill and difficulty is to obtain it.</p>
+               <p>
+                  <hi>Anſw.</hi> To the <hi>former</hi> its <hi>anſwered,</hi> If they <hi>deſire</hi> and <hi>endeavour</hi> it as <hi>good,</hi> what meanes the <hi>bleatings</hi> which are heard? <hi>viz.</hi> The hard ſpeeches one of another, diſcoveries of jealouſies and oppoſition of ſpirit, one towards another; and <hi>deterring</hi> of indeavours towards <hi>accommodation, peace,</hi> and <hi>union</hi> by Inclination of the vanity of in<g ref="char:EOLhyphen"/>deavours thereunto.</p>
+               <p>At the beſt wher's the diſcovery of ſuch indeavours as ought to be by either party, expreſſing what ſome particular perſons, perad<g ref="char:EOLhyphen"/>venture of their owne diſpoſitions have done? what conſiderable thing hath been by way of <hi>condeſcention</hi> done towards <hi>accommoda<g ref="char:EOLhyphen"/>tion</hi> by thoſe that brag moſt of either partee which ought not in <hi>duty</hi> to be done though there were no ſuch difference in <hi>Being?</hi>
+               </p>
+               <p>Where is that ſpirit of accommodation that was in holy <hi>James</hi> and the <hi>Elders</hi> aſſembled, <hi>Act.</hi> 21.18.20? Do not many of us on the contrary drive deſigns, to goe One beyond, and to thwart and circumvent Another?</p>
+               <p>
+                  <pb n="8" facs="tcp:153772:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 119 -->
+To both its anſwered, where's the <hi>Manifeſtation</hi> of the deſires to<g ref="char:EOLhyphen"/>ward it by calling for it, crying it up, and indeavour after it, a<g ref="char:EOLhyphen"/>mong all the <hi>petitions</hi> and <hi>petitioners</hi> that have appeared? who peti<g ref="char:EOLhyphen"/>tions for this? who (as for other things) joynes together in Troopes to <hi>requeſt</hi> men of <hi>wiſdome, peace</hi> and <hi>love</hi> to communicate councels, to find out propoſitions, to preſent to the Committee of Accommo<g ref="char:EOLhyphen"/>dation?</p>
+               <p>And whereas many motions may beſt take Riſe from the earneſt deſires of the people, wher's the endeavors of active men to take the <hi>ſtumbling block</hi> and temptation out of the way of Miniſters of both parties, who are <hi>fleſh and blood</hi> and have their frailties as others, and may not peradventure be able to break through the <hi>diſeſteeme</hi> and <hi>diſcountenance</hi> of thoſe whoſe eyes they know will be upon them for <hi>evill,</hi> if they ſhall for accommodations ſake yeeld ſome thing from what they have formerly held forth and maintained, or from what men of great countenance now hold? What great things have beene done that (to helpe in this caſe) have ſeemed to take their <hi>Riſe</hi> from the motions of the people? Whereas the Miniſters can<g ref="char:EOLhyphen"/>not but ſee a neceſſity of accommodation in other regards: Oh, that they might ſee a neceſſity alſo, to accomodate the Importunate deſires of the people.</p>
+               <p>If this therefore be of <hi>God,</hi> of <hi>Chriſt,</hi> and deſireable to <hi>Chriſtians,</hi> cry it up and with all your might endeavour in it, in a ſpirit of <hi>ſince<g ref="char:EOLhyphen"/>rity, love, meekneſſe, and humility.</hi> And the Lord our God ſhall be with us.</p>
+               <epigraph>
+                  <q>Now I beſeech you brethren by the Name of Our Lord Ieſus Chriſt, that you all ſpeak the ſame thing, and that there be no diviſions a<g ref="char:EOLhyphen"/>mong you; but that ye be perfectly joyned together in the ſame mind, and in the ſame judgement,</q>
+                  <bibl>
+                     <hi>1 Cor. 1.10.</hi>
+                  </bibl>
+               </epigraph>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Joſeph Caryl.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Macock,</hi> for <hi>Giles Calvert,</hi> dwelling at the black Spred-Eagle at the Weſt end of <hi>Pauls.</hi> 1646.</p>
+            <pb n="8" facs="tcp:153772:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 120 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
